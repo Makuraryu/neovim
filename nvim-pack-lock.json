@@ -1,0 +1,32 @@
+{
+  "plugins": {
+    "blink.cmp": {
+      "rev": "3d3631f641e6e9b60066f269f435d23c524ceeb0",
+      "src": "https://github.com/saghen/blink.cmp"
+    },
+    "blink.lib": {
+      "rev": "fd9a48ebbe6ec30d5dfcc5b42c243941ccdca1aa",
+      "src": "https://github.com/saghen/blink.lib"
+    },
+    "copilot.lua": {
+      "rev": "3547efbff9adeecbd9d431c0a2a8707b7f6a4131",
+      "src": "https://github.com/zbirenbaum/copilot.lua"
+    },
+    "mini.statusline": {
+      "rev": "591b9d553dc3604b114577bc0f6e289ea3783fc2",
+      "src": "https://github.com/echasnovski/mini.statusline"
+    },
+    "nvim-lspconfig": {
+      "rev": "6e72b89d499455611f09f46d13ee9f79325406e5",
+      "src": "https://github.com/neovim/nvim-lspconfig"
+    },
+    "oil.nvim": {
+      "rev": "d3733d933833a0e59b813ecec99341527adf0c28",
+      "src": "https://github.com/stevearc/oil.nvim"
+    },
+    "onenord.nvim": {
+      "rev": "5240bfb79bcab7e03508626c5283cfc417b79169",
+      "src": "https://github.com/rmehri01/onenord.nvim"
+    }
+  }
+}

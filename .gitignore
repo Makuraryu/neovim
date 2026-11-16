@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Editor / swap / backup
+*.swp
+*.swo
+*~
+.netrwhist
+
+# Local tool state
+.crush/
+
+# Local/session artifacts
+Session.vim
+session/
