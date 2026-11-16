@@ -4,7 +4,7 @@ require("oil").setup({
     show_hidden = true,
   },
   keymaps = {
-    ["<leader>."] = "actions.toggle_hidden",
+    ["."] = "actions.toggle_hidden",
   },
 })
 
