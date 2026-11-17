@@ -12,6 +12,10 @@
       "rev": "3547efbff9adeecbd9d431c0a2a8707b7f6a4131",
       "src": "https://github.com/zbirenbaum/copilot.lua"
     },
+    "mini.starter": {
+      "rev": "c41f0be0e3c336be866d67cbd85f8445bced1e6e",
+      "src": "https://github.com/echasnovski/mini.starter"
+    },
     "mini.statusline": {
       "rev": "591b9d553dc3604b114577bc0f6e289ea3783fc2",
       "src": "https://github.com/echasnovski/mini.statusline"

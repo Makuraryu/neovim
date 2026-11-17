@@ -8,6 +8,7 @@ vim.o.termguicolors = true
 vim.o.signcolumn = "yes"
 vim.o.updatetime = 250
 vim.o.completeopt = "menu,menuone,noselect"
+vim.opt.shortmess:append("I")
 
 -- Move by visual/display lines when no count is given
 local function visual_move(key, gkey)
@@ -34,5 +35,6 @@ require("plugins")
 require("config.colorscheme")
 require("config.lsp")
 require("config.statusline")
+require("config.starter")
 require("config.oil")
 require("config.copilot")
